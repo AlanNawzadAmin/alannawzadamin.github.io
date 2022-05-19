@@ -1,5 +1,5 @@
 ## Alan N Amin
-![](/assets/untitled (3 of 42).jpg)
+![Image](/assets/untitled (3 of 42).jpg)
 
 ### About me
 
