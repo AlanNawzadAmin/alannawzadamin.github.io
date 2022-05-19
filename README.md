@@ -1,4 +1,7 @@
-## About me
+## Alan N Amin
+![](/assets/untitled (3 of 42).jpg)
+
+### About me
 
 I am a 3rd year PhD student in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
 I graduated with a degree in Biochemistry and Mathematics from the University of Toronto in 2019.
@@ -9,7 +12,7 @@ A throughline of some of my work (in particular that with [Eli Weinstein](https:
 
 A link to my CV.
 
-## Publications
+### Publications
 
 Weinstein E N*,  **Amin A N***, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. _arXiv_, 2022
 
@@ -24,7 +27,7 @@ Das S, **Amin A N**, Lin Y-H, Chan H S. “Coarse-grained residue-based models o
 Delplace V, Ortin-Martinex A, Tsai E L S, **Amin A N**, Wallace V and Shoichet M S. “Controlled Release Strategy Designed for Intravitreal Protein Delivery to the Retina.” _J. Control. Release_, 2018.
 
 
-## Contact
+### Contact
 Reach me at alanamin@g.harvard.edu or 6173863043.
 
 
