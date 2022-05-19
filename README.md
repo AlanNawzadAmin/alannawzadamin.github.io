@@ -10,7 +10,7 @@ I work on building statistical tools to analyze biological sequence data: to opt
 This is usually done with Bayesian statistical theory and modern machine learning.
 A throughline of some of my work (in particular that with [Eli Weinstein](https://eweinstein.github.io/)) has been building these tools for settings where aligning sequences to represent them as fixed-dimensional vectors cannot work, such as in the comparison or generation of whole genomes.
 
-[A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/CV_220413.pdf)
+[A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/CV_220413.pdf?raw=true)
 
 ### Selected works
 
