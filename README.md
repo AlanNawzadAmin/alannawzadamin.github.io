@@ -12,7 +12,7 @@ A throughline of some of my work (in particular that with [Eli Weinstein](https:
 
 A link to my CV.
 
-### Select Publications
+### Selected works
 
 Weinstein E N*,  **Amin A N***, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. _arXiv_, 2022. [preprint](https://www.biorxiv.org/content/10.1101/2022.01.29.478324v1)
 
