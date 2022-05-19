@@ -4,7 +4,7 @@
 ### About me
 
 I am a 3rd year PhD student in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
-I graduated with a degree in Biochemistry and Mathematics from the University of Toronto in 2019.
+I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
 I work on building statistical tools to analyze biological sequence data: to optimize, compare, relate to (and infer) biophyiscal models, combine with experimental measurements (to interpret experimental results or design new ones), etc....
 This is usually done with Bayesian statistical theory and modern machine learning.
