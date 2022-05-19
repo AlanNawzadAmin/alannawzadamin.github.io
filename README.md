@@ -5,7 +5,7 @@ I graduated with a degree in Biochemistry and Mathematics from the University of
 
 I work on building statistical tools to analyze biological sequence data: to optimize, compare, relate to (and infer) biophyiscal models, combine with experimental measurements (to interpret experimental results or design new ones), etc....
 This is usually done with Bayesian statistical theory and modern machine learning.
-A throughline of some of my work (in particular that with [Eli Weinstein](https://eweinstein.github.io/)) has been building these tools to work in settings where aligning sequences to represent them as fixed-dimensional vectors cannot work, such as in the comparison or generation of whole genomes.
+A throughline of some of my work (in particular that with [Eli Weinstein](https://eweinstein.github.io/)) has been building these tools for settings where aligning sequences to represent them as fixed-dimensional vectors cannot work, such as in the comparison or generation of whole genomes.
 
 A link to my CV.
 
