@@ -21,14 +21,15 @@ So I've been recently interested in results on adaptivity.
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/CV_220413.pdf?raw=true)
 
 ### Selected works
+* denotes equal contribution
 
-**Amin A N\***, Weinstein E N*, Marks D S* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. Submitted, 2023
+**Amin A N\***, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. Submitted, 2023
 
-**Amin A N\***, Weinstein E N*, Marks D S* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. Almost submitted!, 2023
+**Amin A N\***, Weinstein E N\*, Marks D S\* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. Almost submitted!, 2023
 
-Weinstein E N*, **Amin A N\****, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. NeurIPS, 2022 (Oral), [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
+Weinstein E N\*, **Amin A N\****, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. NeurIPS, 2022 (Oral), [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
 
-**Amin A N\***, Weinstein E N*, Marks D S (*Equal contribution). A generative nonparametric Bayesian model for whole genomes, NeurIPS, 2021.[paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html)
+**Amin A N\***, Weinstein E N\*, Marks D S (*Equal contribution). A generative nonparametric Bayesian model for whole genomes, NeurIPS, 2021.[paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html)
 
 
 ### Contact
