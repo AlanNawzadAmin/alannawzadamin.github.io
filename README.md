@@ -1,4 +1,4 @@
-## Alan N Amin
+## Alan N. Amin
 ![Image](/assets/zUg6W86__400x400.jpg)
 
 ### About me
@@ -17,6 +17,8 @@ My methods so far rely on assumptions like good approximation with distributions
 What about the regimen where deep learning does well -- there are low dimensional "latent" factors that determine the data?
 It'd be nice to look at adaptivity results for deep learning for sequence data (it's not obvious to me that this adaptivity is manifest when sequence aren't aligned for example).
 So I've been recently interested in results on adaptivity.
+
+**I'm also looking for a postdoc position!**
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/CV_220413.pdf?raw=true)
 
