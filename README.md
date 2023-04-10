@@ -6,9 +6,17 @@
 I am a 4th year PhD student in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
-I work on building statistical tools to analyze biological sequence data: to optimize, compare, relate to (and infer) biophyiscal models, combine with experimental measurements (to interpret experimental results or design new ones), etc....
-This is usually done with Bayesian statistical theory and modern machine learning.
-A throughline of some of my work (in particular that with [Eli Weinstein](https://eweinstein.github.io/)) has been building these tools for settings where aligning sequences to represent them as fixed-dimensional vectors cannot work, such as in the comparison or generation of whole genomes.
+I work on building statistical tools for biological sequence data: to optimize, compare, relate to (and infer) biophyiscal models, combine with experimental measurements (to interpret experimental results or design new ones), etc....
+To do this with the scale and flexiblity necessary for modern sequence data, I usually work on nonparametric methods: a nonparametric Bayesian model and kernels.
+But most of all, I work with [Eli](https://eweinstein.github.io/).
+
+I've proved some results on convergence of stochastic processes in sequence space using Lyapunov function analysis (unfortunately relegated to the supplement of "A Kernelized Stein Discrepancy for Biological Sequences"). I've recently become interested in extending these results to build optimization and sampling methods with guarantees.
+
+I'm also always asked how we can hope to learn extremely high dimensional sequence data with flexible models.
+My methods so far rely on assumptions like good approximation with distributions in the support of a nonparamteric bayesian model or functions in an RKHS (which are a type of "low dimentionality" assumption).
+What about the regimen where deep learning does well -- there are low dimensional "latent" factors that determine the data?
+It'd be nice to look at adaptivity results for deep learning for sequence data (it's not obvious to me that this adaptivity is manifest when sequence aren't aligned for example).
+So I've been recently interested in results on adaptivity.
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/CV_220413.pdf?raw=true)
 
