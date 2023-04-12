@@ -20,7 +20,7 @@ So I've been recently interested in results on adaptivity.
 
 **I'm also looking for a postdoc position!**
 
-[A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan Amin CV.pdf?raw=true)
+[A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
 ### Selected works
 * denotes equal contribution
