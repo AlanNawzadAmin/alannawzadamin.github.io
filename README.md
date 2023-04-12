@@ -23,7 +23,7 @@ So I've been recently interested in results on adaptivity.
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
 ### Selected works
-* denotes equal contribution
+\* denotes equal contribution
 
 **Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. Under Review, 2023.
 
