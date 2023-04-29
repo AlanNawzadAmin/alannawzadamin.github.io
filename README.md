@@ -25,7 +25,7 @@ So I've been recently interested in results on adaptivity.
 ### Selected works
 \* denotes equal contribution
 
-**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. Accepted to ICML, 2023.
+**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. To appear in ICML, 2023.
 
 **Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. arXiv, 2023. [paper](https://arxiv.org/abs/2304.03775)
 
