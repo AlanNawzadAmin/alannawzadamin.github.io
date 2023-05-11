@@ -6,19 +6,11 @@
 I am a 4th year PhD student in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
-I work on building statistical tools for biological sequence data: to optimize, compare, relate to (and infer) biophyiscal models, combine with experimental measurements (to interpret experimental results or design new ones), etc....
-To do this with the scale and flexiblity necessary for modern sequence data, I usually work on nonparametric methods: a nonparametric Bayesian model and kernels.
+I work on building statistical tools for learning from biological sequence data -- learning patterns in sets of sequences or learning from experimental data.
+In particular, I build nonparametric methods that can leverage the increasing amount of sequence data to make accurate predictions and learn new biology, in theory and in practice.
 But most of all, I work with [Eli](https://eweinstein.github.io/).
 
-I've proved some results on convergence of stochastic processes in sequence space using Lyapunov function analysis (unfortunately relegated to the supplement of "A Kernelized Stein Discrepancy for Biological Sequences"). I've recently become interested in extending these results to build optimization and sampling methods with guarantees.
-
-I'm also always asked how we can hope to learn extremely high dimensional sequence data with flexible models.
-My methods so far rely on assumptions like good approximation with distributions in the support of a nonparamteric bayesian model or functions in an RKHS (which are a type of "low dimentionality" assumption).
-What about the regimen where deep learning does well -- there are low dimensional "latent" factors that determine the data?
-It'd be nice to look at adaptivity results for deep learning for sequence data (it's not obvious to me that this adaptivity is manifest when sequence aren't aligned for example).
-So I've been recently interested in results on adaptivity.
-
-**I'm also looking for a postdoc position!**
+[A link to my research statement](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true)
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
