@@ -5,7 +5,7 @@
 
 I am currently a postdoc at [Jura bio](https://www.jura.bio).
 In September I will be joining the [Wilson lab](https://cims.nyu.edu/~andrewgw/) at NYU as a postdoc.
-I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
+I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/) in 2023.
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
 I work on building statistical tools for learning from biological sequence data -- learning patterns in sets of sequences or learning from experimental data.
