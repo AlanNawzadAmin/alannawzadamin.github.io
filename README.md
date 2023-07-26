@@ -3,7 +3,9 @@
 
 ### About me
 
-I am a 4th year PhD student in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
+I am currently a postdoc at [Jura bio](https://www.jura.bio).
+In September I will be joining the [Wilson lab](https://cims.nyu.edu/~andrewgw/) at NYU as a postdoc.
+I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/).
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
 I work on building statistical tools for learning from biological sequence data -- learning patterns in sets of sequences or learning from experimental data.
@@ -17,7 +19,7 @@ But most of all, I work with [Eli](https://eweinstein.github.io/).
 ### Selected works
 \* denotes equal contribution
 
-**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. To appear in ICML, 2023.
+**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. ICML, 2023. [paper](https://openreview.net/forum?id=fvBVj5djg3)
 
 **Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. arXiv, 2023. [paper](https://arxiv.org/abs/2304.03775)
 
