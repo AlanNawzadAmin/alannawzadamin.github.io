@@ -21,7 +21,7 @@ But most of all, I work with [Eli](https://eweinstein.github.io/).
 
 **Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. ICML, 2023. [paper](https://openreview.net/forum?id=fvBVj5djg3)
 
-**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. arXiv, 2023. [paper](https://arxiv.org/abs/2304.03775)
+**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. arXiv, 2023. **MassMutual Student Research Award at 2023 New England Statistics Symposium** [paper](https://arxiv.org/abs/2304.03775)
 
 Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. NeurIPS, 2022 (Oral). [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
 
