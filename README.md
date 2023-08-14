@@ -4,7 +4,7 @@
 ### About me
 
 I am currently a postdoc at [Jura bio](https://www.jura.bio).
-In September I will be joining the [Wilson lab](https://cims.nyu.edu/~andrewgw/) at NYU as a postdoc.
+In September I will be joining the Courant institute at NYU as a faculty fellow, working with the [Wilson lab](https://cims.nyu.edu/~andrewgw/).
 I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/) in 2023.
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
