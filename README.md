@@ -3,14 +3,13 @@
 
 ### About me
 
-I am currently a postdoc at [Jura bio](https://www.jura.bio).
-In September I will be joining the Courant institute at NYU as a faculty fellow, working with the [Wilson lab](https://cims.nyu.edu/~andrewgw/).
+I am a faculty fellow Courant Institute at NYU, working with the [Wilson lab](https://cims.nyu.edu/~andrewgw/).
+I from June to August 2023 I was a postdoc at [Jura bio](https://www.jura.bio).
 I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/) in 2023.
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
 I work on building statistical tools for learning from biological sequence data -- learning patterns in sets of sequences or learning from experimental data.
-In particular, I build nonparametric methods that can leverage the increasing amount of sequence data to make accurate predictions and learn new biology, in theory and in practice.
-But most of all, I work with [Eli](https://eweinstein.github.io/).
+In particular, I build flexible, often nonparametric, methods that can leverage the increasing amount of sequence data to make accurate predictions and learn new biology, in theory and in practice.
 
 [A link to my research statement](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true)
 
