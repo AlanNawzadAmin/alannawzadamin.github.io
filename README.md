@@ -11,7 +11,7 @@ I graduated with a BS in Biochemistry and Mathematics from the University of Tor
 I work on building statistical tools for learning from biological sequence data -- learning patterns in sets of sequences or learning from experimental data.
 In particular, I build flexible, often nonparametric, methods that can leverage the increasing amount of sequence data to make accurate predictions and learn new biology, in theory and in practice.
 
-[A link to my research statement](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true)
+[A link to my research statement.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true)
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
