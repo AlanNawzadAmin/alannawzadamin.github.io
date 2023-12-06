@@ -18,7 +18,7 @@ In particular, I build flexible, often nonparametric, methods that can leverage 
 ### Selected works
 \* denotes equal contribution
 
-**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. ICML, 2023. [paper](https://openreview.net/forum?id=fvBVj5djg3)
+**Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). A Kernelized Stein Discrepancy for Biological Sequences. ICML, 2023. [paper](https://proceedings.mlr.press/v202/amin23a.html)
 
 **Amin A N**, Weinstein E N\*, Marks D S\* (*Equal contribution). Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. arXiv, 2023. **MassMutual Student Research Award at 2023 New England Statistics Symposium** [paper](https://arxiv.org/abs/2304.03775)
 
