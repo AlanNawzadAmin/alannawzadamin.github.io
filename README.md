@@ -28,6 +28,6 @@ Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S (*Equal contribution). Non-
 
 
 ### Contact
-Reach me at alanamin@g.harvard.edu or 6173863043.
+Reach me at alanamin@nyu.edu or 6173863043.
 
 
