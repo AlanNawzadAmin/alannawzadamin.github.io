@@ -1,8 +1,6 @@
-
 # About me
-
 <p align="left">
-  <img src="/assets/zUg6W86__400x400.jpg" align="left" width="300" style="margin-right: 10px;">
+  <img src="/assets/zUg6W86__400x400.jpg" align="left" width="300" style="max-width: 50%; height: auto; margin-right: 10px; display: block;">
   I'm Alan Nawzad Amin!
   I build statistical tools for all types of biological sequence data, especially proteins, transcriptomics, and genomics.
   In particular, I build models and tests that 1) scale to massive modern datasets, 2) are provably flexible enough to fit this data, and 3) incorporate biological assumptions.
