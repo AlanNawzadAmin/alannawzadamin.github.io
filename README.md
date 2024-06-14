@@ -35,6 +35,6 @@ Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**, Kernel-Based E
 Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. NeurIPS, 2022. **Oral-Equivalent paper** [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
 
 ### Contact
-Reach me at alanamin@nyu.edu.
+Please feel free to reach out to me at alanamin@nyu.edu!
 
 
