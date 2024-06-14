@@ -10,14 +10,14 @@
     <p><strong>Bio:</strong> I am a faculty fellow Courant Institute at NYU, working with the <a href="https://cims.nyu.edu/~andrewgw/">Wilson lab</a>.
     In the summer of 2023, I was a postdoc at <a href="https://www.jura.bio">Jura bio</a>.
     I completed my PhD in the Harvard Systems Biology program supervised by <a href="https://www.deboramarkslab.com/">Debora Marks</a> in 2023.
-    I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.</p>
+    I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
+    <a href="https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true">A link to my CV.</a>
+    <a href="https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true">A link to a research statement (2023).</a>
+    </p>
   </div>
 </div>
 
 
-[A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
-
-[A link to a research statement (2023).](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true)
 
 # Selected works
 \* denotes equal contribution
