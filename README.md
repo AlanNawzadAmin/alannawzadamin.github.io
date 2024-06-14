@@ -24,19 +24,25 @@
 
 ### Building scalable, flexible models of sequence data
 
-**Amin A N**, Wilson A G. Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency. ICML, 2024 [paper](https://arxiv.org/abs/2406.09177), [code](https://github.com/AlanNawzadAmin/DAT-graph)
+Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Wilson A G. *ICML*, 2024 [paper](https://arxiv.org/abs/2406.09177), [code](https://github.com/AlanNawzadAmin/DAT-graph)
 
-**Amin A N**, Weinstein E N\*, Marks D S\*. Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. arXiv, 2023. **MassMutual Student Research Award at 2023 New England Statistics Symposium** [paper](https://arxiv.org/abs/2304.03775), [code](https://github.com/AlanNawzadAmin/Kernels-with-guarantees)
+Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *arXiv*, 2023. **Student Research Award at 2023 New England Statistics Symposium** [paper](https://arxiv.org/abs/2304.03775), [code](https://github.com/AlanNawzadAmin/Kernels-with-guarantees)
 
-**Amin A N\***, Weinstein E N\*, Marks D S. A generative nonparametric Bayesian model for whole genomes. NeurIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html), [code](https://github.com/debbiemarkslab/BEAR)
+A generative nonparametric Bayesian model for whole genomes.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N\***, Weinstein E N\*, Marks D S. *NeurIPS*, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html), [code](https://github.com/debbiemarkslab/BEAR)
 
 ### Evaluating models of sequence data
 
-Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**, Kernel-Based Evaluation of Conditional Biological Sequence Models. ICML, 2024.
+Kernel-Based Evaluation of Conditional Biological Sequence Models.  
+&nbsp;&nbsp;&nbsp;&nbsp;Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**. *ICML*, 2024.
 
-**Amin A N**, Weinstein E N\*, Marks D S\*. A Kernelized Stein Discrepancy for Biological Sequences. ICML, 2023. [paper](https://proceedings.mlr.press/v202/amin23a.html), [code](https://github.com/AlanNawzadAmin/KSD-B/)
+A Kernelized Stein Discrepancy for Biological Sequences.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *ICML*, 2023. [paper](https://proceedings.mlr.press/v202/amin23a.html), [code](https://github.com/AlanNawzadAmin/KSD-B/)
 
-Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S. Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. NeurIPS, 2022. **(Oral)** [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
+Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny.  
+&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S. *NeurIPS*, 2022. **(Oral)** [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
 
 # Teaching
 
