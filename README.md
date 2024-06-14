@@ -3,13 +3,13 @@
 
 ### About me
 
+I build statistical tools for all types of biological sequence data.
+In particular, I build models and tests that scale to massive modern datasets and that are provably flexible enough to fit this data.
+
 I am a faculty fellow Courant Institute at NYU, working with the [Wilson lab](https://cims.nyu.edu/~andrewgw/).
 From June to August 2023 I was a postdoc at [Jura bio](https://www.jura.bio).
 I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/) in 2023.
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
-
-I build statistical tools for all types of biological sequence data.
-In particular, I build models and tests that scale to massive modern datasets and that are provably flexible enough to fit this data.
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
