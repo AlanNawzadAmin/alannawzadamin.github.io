@@ -8,8 +8,8 @@ From June to August 2023 I was a postdoc at [Jura bio](https://www.jura.bio).
 I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/) in 2023.
 I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
 
-I work on building statistical tools for learning from biological sequence data -- learning patterns in sets of sequences or learning from experimental data.
-In particular, I build flexible, often nonparametric, methods that can leverage the increasing amount of sequence data to make accurate predictions and learn new biology, in theory and in practice.
+I build statistical tools for all types of biological sequence data.
+In particular, I build models and tests that scale to massive modern datasets and that are provably flexible enough to fit this data.
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
