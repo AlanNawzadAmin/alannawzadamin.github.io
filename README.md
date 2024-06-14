@@ -1,15 +1,19 @@
 # About me
-<p align="left">
-  <img src="/assets/zUg6W86__400x400.jpg" align="left" width="300" style="max-width: 50%; height: auto; margin-right: 10px; display: block;">
-  I'm Alan Nawzad Amin!
-  I build statistical tools for all types of biological sequence data, especially proteins, transcriptomics, and genomics.
-  In particular, I build models and tests that 1) scale to massive modern datasets, 2) are provably flexible enough to fit this data, and 3) incorporate biological assumptions.
-  
-  **Bio:** I am a faculty fellow Courant Institute at NYU, working with the [Wilson lab](https://cims.nyu.edu/~andrewgw/).
-  In the summer of 2023, I was a postdoc at [Jura bio](https://www.jura.bio).
-  I completed my PhD in the Harvard Systems Biology program supervised by [Debora Marks](https://www.deboramarkslab.com/) in 2023.
-  I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
-</p>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="/assets/zUg6W86__400x400.jpg" alt="Alan Nawzad Amin" align="left" width="287" style="max-width: 50%; height: auto; margin-right: 10px; display: block;">
+
+  <div style="flex: 1; min-width: 200px;">
+    <p>I'm Alan Nawzad Amin!
+    I build statistical tools for all types of biological sequence data, especially proteins, transcriptomics, and genomics.
+    In particular, I build models and tests that 1) scale to massive modern datasets, 2) are provably flexible enough to fit this data, and 3) incorporate biological assumptions.</p>
+    <p><strong>Bio:</strong> I am a faculty fellow Courant Institute at NYU, working with the <a href="https://cims.nyu.edu/~andrewgw/">Wilson lab</a>.
+    In the summer of 2023, I was a postdoc at <a href="https://www.jura.bio">Jura bio</a>.
+    I completed my PhD in the Harvard Systems Biology program supervised by <a href="https://www.deboramarkslab.com/">Debora Marks</a> in 2023.
+    I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.</p>
+  </div>
+</div>
+
 
 [A link to my CV.](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true)
 
