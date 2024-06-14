@@ -51,6 +51,6 @@ CSCI-102: Data structures Fall 2024. *Reach out if you're an undergrad at NYU an
 CSCI-102: Data structures Spring 2024. [Website](https://github.com/AlanNawzadAmin/CSCI-UA-201-011-Spring-2024)
 
 # Contact
-Please feel free to reach out to me at alanamin@nyu.edu!
+Please feel free to reach out to me at alanamin@nyu.edu! On [Twitter @AlanNawzadAmin](https://x.com/AlanNawzadAmin).
 
 
