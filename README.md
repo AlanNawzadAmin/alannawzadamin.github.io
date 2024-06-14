@@ -28,7 +28,8 @@ Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency. [pa
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Wilson A G. *ICML*, 2024 
 
 Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. [paper](https://arxiv.org/abs/2304.03775), [code](https://github.com/AlanNawzadAmin/Kernels-with-guarantees)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *arXiv*, 2023. **Student Research Award at 2023 New England Statistics Symposium** 
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *arXiv*, 2023.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Student Research Award at 2023 New England Statistics Symposium** 
 
 A generative nonparametric Bayesian model for whole genomes. [paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html), [code](https://github.com/debbiemarkslab/BEAR)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N\***, Weinstein E N\*, Marks D S. *NeurIPS*, 2021.
