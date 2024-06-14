@@ -1,7 +1,7 @@
-## Alan N. Amin
+# Alan N. Amin
 ![Image](/assets/zUg6W86__400x400.jpg)
 
-### About me
+## About me
 
 I build statistical tools for all types of biological sequence data.
 In particular, I build models and tests that scale to massive modern datasets and that are provably flexible enough to fit this data.
@@ -15,10 +15,10 @@ I graduated with a BS in Biochemistry and Mathematics from the University of Tor
 
 [A link to a research statement (2023).](https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true)
 
-### Selected works
+## Selected works
 \* denotes equal contribution
 
-#### Building scalable, flexible models of sequence data
+### Building scalable, flexible models of sequence data
 
 **Amin A N**, Wilson A G. Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency. ICML, 2024
 
@@ -26,7 +26,7 @@ I graduated with a BS in Biochemistry and Mathematics from the University of Tor
 
 **Amin A N\***, Weinstein E N\*, Marks D S (*Equal contribution). A generative nonparametric Bayesian model for whole genomes. NeurIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html)
 
-#### Evalauting models of sequence data
+### Evalauting models of sequence data
 
 Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**, Kernel-Based Evaluation of Conditional Biological Sequence Models. ICML, 2024.
 
@@ -34,13 +34,13 @@ Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**, Kernel-Based E
 
 Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S (*Equal contribution). Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. NeurIPS, 2022. **Oral-Equivalent paper** [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)
 
-### Teaching
+## Teaching
 
 CSCI-102: Data structures Fall 2024. *Reach out if you're an undergrad at NYU and would like to be a grader this fall!*
 
 CSCI-102: Data structures Spring 2024. [Website](https://github.com/AlanNawzadAmin/CSCI-UA-201-011-Spring-2024)
 
-### Contact
+## Contact
 Please feel free to reach out to me at alanamin@nyu.edu!
 
 
