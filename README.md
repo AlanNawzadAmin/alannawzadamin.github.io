@@ -1,7 +1,7 @@
-# About me
+# Alan Nawzad Amin
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="/assets/zUg6W86__400x400.jpg" alt="Alan Nawzad Amin" align="left" width="310" style="max-width: 50%; height: auto; margin-right: 10px; display: block;">
+  <img src="/assets/zUg6W86__400x400.jpg" alt="Alan Nawzad Amin" align="left" width="302" style="max-width: 50%; height: auto; margin-right: 10px; display: block;">
 
   <div style="flex: 1; min-width: 200px;">
     <p>I'm Alan Nawzad Amin!
