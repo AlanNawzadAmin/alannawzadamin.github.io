@@ -13,6 +13,7 @@
     I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
     <a href="https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Alan_Amin_CV.pdf?raw=true">A link to my CV.</a>
     <a href="https://github.com/AlanNawzadAmin/alannawzadamin.github.io/blob/main/assets/Research_statement.pdf?raw=true">A link to a research statement (2023).</a>
+    <p><strong>Contact:</strong> Please feel free to reach out to me at alanamin@nyu.edu! On <a href="https://x.com/AlanNawzadAmin">Twitter @AlanNawzadAmin</a>.</p>
     </p>
   </div>
 </div>
@@ -49,8 +50,5 @@ Non-identifiability and the blessings of misspecification in models of molecular
 CSCI-102: Data structures Fall 2024. *Reach out if you're an undergrad at NYU and would like to be a grader this fall!*
 
 CSCI-102: Data structures Spring 2024. [Website](https://github.com/AlanNawzadAmin/CSCI-UA-201-011-Spring-2024)
-
-# Contact
-Please feel free to reach out to me at alanamin@nyu.edu! On [Twitter @AlanNawzadAmin](https://x.com/AlanNawzadAmin).
 
 
