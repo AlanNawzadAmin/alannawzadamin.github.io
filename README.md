@@ -36,7 +36,7 @@ A generative nonparametric Bayesian model for whole genomes. [paper](https://pro
 
 ### Evaluating models of sequence data
 
-Kernel-Based Evaluation of Conditional Biological Sequence Models. [paper](https://openreview.net/pdf?id=2dlmcTXfcY), 
+Kernel-Based Evaluation of Conditional Biological Sequence Models. [paper](https://openreview.net/pdf?id=2dlmcTXfcY)  
 &nbsp;&nbsp;&nbsp;&nbsp;Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**. *ICML*, 2024.
 
 A Kernelized Stein Discrepancy for Biological Sequences.  [paper](https://proceedings.mlr.press/v202/amin23a.html), [code](https://github.com/AlanNawzadAmin/KSD-B/)  
