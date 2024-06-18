@@ -7,7 +7,7 @@
     <p>I'm Alan Nawzad Amin!
     I build statistical tools for all types of biological sequence data, especially proteins, transcriptomics, and genomics.
     In particular, I build models and tests that 1) scale to massive modern datasets, 2) are provably flexible enough to fit this data, and 3) incorporate biological assumptions.</p>
-    <p><strong>Bio:</strong> I am a faculty fellow Courant Institute at NYU, working with the <a href="https://cims.nyu.edu/~andrewgw/">Wilson lab</a>.
+    <p><strong>Bio:</strong> I am a faculty fellow Courant Institute at New York University, working with the <a href="https://cims.nyu.edu/~andrewgw/">Wilson lab</a>.
     In the summer of 2023, I was a postdoc at <a href="https://www.jura.bio">Jura bio</a>.
     I completed my PhD in the Harvard Systems Biology program supervised by <a href="https://www.deboramarkslab.com/">Debora Marks</a> in 2023.
     I graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019.
