@@ -26,7 +26,7 @@
 ### Building scalable, flexible models of large sequence data
 
 Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale. [paper](https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2), [code](https://github.com/debbiemarkslab/variational-synthesis)  
-&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N*, Gollub M G*, Slabodkin A*, Gardner C L, Dobbs K, Cui X-B, **Amin A N**, Church G M, Wood E B. *Preprint*, 2024. 
+&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, Gollub M G\*, Slabodkin A\*, Gardner C L, Dobbs K, Cui X-B, **Amin A N**, Church G M, Wood E B. *Preprint*, 2024. 
 
 Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency. [paper](https://arxiv.org/abs/2406.09177), [code](https://github.com/AlanNawzadAmin/DAT-graph)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Wilson A G. *ICML*, 2024 
