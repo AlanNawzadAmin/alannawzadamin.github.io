@@ -5,8 +5,8 @@
 
   <div style="flex: 1; min-width: 200px;">
     <p>I'm Alan Nawzad Amin!
-    I build statistical tools for all types of biological sequence data, especially proteins, transcriptomics, and genomics.
-    In particular, I build models and tests that 1) scale to massive modern datasets, 2) are provably flexible enough to fit this data, and 3) incorporate biological assumptions.</p>
+    I work on statistical models built on modern, large databases of biological sequences.
+    My projects either build models that can leverage these datasets in new ways, or seek to understand why these models work.</p>
     <p><strong>Bio:</strong> I am a faculty fellow at the Courant Institute at New York University, working with the <a href="https://cims.nyu.edu/~andrewgw/">Wilson lab</a>.
     In the summer of 2023, I was a postdoc at <a href="https://www.jura.bio">Jura bio</a>.
     I completed my PhD in the Harvard Systems Biology program supervised by <a href="https://www.deboramarkslab.com/">Debora Marks</a> in 2023.
@@ -23,7 +23,10 @@
 # Selected works
 \* denotes equal contribution
 
-### Building scalable, flexible models of sequence data
+### Building scalable, flexible models of large sequence data
+
+Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale. [paper](https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2), [code](https://github.com/debbiemarkslab/variational-synthesis)  
+&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N*, Gollub M G*, Slabodkin A*, Gardner C L, Dobbs K, Cui X-B, **Amin A N**, Church G M, Wood E B. *Preprint*, 2024. 
 
 Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency. [paper](https://arxiv.org/abs/2406.09177), [code](https://github.com/AlanNawzadAmin/DAT-graph)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Wilson A G. *ICML*, 2024 
@@ -34,7 +37,7 @@ Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological 
 A generative nonparametric Bayesian model for whole genomes. [paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html), [code](https://github.com/debbiemarkslab/BEAR)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N\***, Weinstein E N\*, Marks D S. *NeurIPS*, 2021.
 
-### Evaluating models of sequence data
+### Understanding and evaluating models of sequence data
 
 Kernel-Based Evaluation of Conditional Biological Sequence Models. [paper](https://openreview.net/pdf?id=2dlmcTXfcY)  
 &nbsp;&nbsp;&nbsp;&nbsp;Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**. *ICML*, 2024.
