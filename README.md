@@ -25,7 +25,7 @@
 
 ### Building scalable, flexible models of large sequence data
 
-Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences. [paper]([https://openreview.net/pdf?id=E48QvQppIN](https://arxiv.org/abs/2412.07763)), [code](https://github.com/AlanNawzadAmin/CloneBO)  
+Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences. [paper](https://arxiv.org/abs/2412.07763), [code](https://github.com/AlanNawzadAmin/CloneBO)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *Preprint, presenting at AIDrugX at Neurips*, 2024. 
 
 Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale. [paper](https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2), [code](https://github.com/debbiemarkslab/variational-synthesis)  
