@@ -26,7 +26,7 @@
 ### Building scalable, flexible models of large sequence data
 
 Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences. [paper](https://arxiv.org/abs/2412.07763), [code](https://github.com/AlanNawzadAmin/CloneBO)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *Preprint*, **spotlight and outstanding poster award at AIDrugX workshop at Neurips 2024**, 2024. 
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *Preprint*, 2024. **spotlight and outstanding poster award at AIDrugX workshop at Neurips 2024** 
 
 Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale. [paper](https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2), [code](https://github.com/debbiemarkslab/variational-synthesis)  
 &nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, Gollub M G\*, Slabodkin A\*, Gardner C L, Dobbs K, Cui X-B, **Amin A N**, Church G M, Wood E B. *Preprint*, 2024. 
@@ -49,7 +49,7 @@ A Kernelized Stein Discrepancy for Biological Sequences.  [paper](https://procee
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *ICML*, 2023.
 
 Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S. *NeurIPS*, 2022. **(Oral)** 
+&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S. *NeurIPS*, 2022. **Oral** 
 
 # Teaching
 
