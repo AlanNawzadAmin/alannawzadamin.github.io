@@ -45,7 +45,7 @@ A generative nonparametric Bayesian model for whole genomes. [paper](https://pro
 
 ### Understanding and evaluating models of sequence data
 
-Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion. [paper](arxiv.org/abs/2506.08316), [code](https://github.com/AlanNawzadAmin/SCUD)  
+Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion. [paper](https://arxiv.org/abs/2506.08316), [code](https://github.com/AlanNawzadAmin/SCUD)  
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N, Wilson A G.  *Preprint*, 2025.
 
 Kernel-Based Evaluation of Conditional Biological Sequence Models. [paper](https://openreview.net/pdf?id=2dlmcTXfcY)  
