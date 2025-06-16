@@ -25,8 +25,11 @@
 
 ### Building scalable, flexible models of large sequence data
 
+Training Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra. [paper](), [code](https://github.com/AlanNawzadAmin/DeepWAS)  
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Potapczynski A, Wilson A G.  *ICML*, 2025. **oral and 2nd best paper award at AI4NA workshop at ICLR 2024**
+
 Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences. [paper](https://arxiv.org/abs/2412.07763), [code](https://github.com/AlanNawzadAmin/CloneBO)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *Preprint*, 2024. **spotlight and outstanding poster award at AIDrugX workshop at Neurips 2024** 
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *ICLR*, 2024. **spotlight at ICLR, spotlight and outstanding poster award at AIDrugX workshop at Neurips 2024** 
 
 Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale. [paper](https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2), [code](https://github.com/debbiemarkslab/variational-synthesis)  
 &nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, Gollub M G\*, Slabodkin A\*, Gardner C L, Dobbs K, Cui X-B, **Amin A N**, Church G M, Wood E B. *Preprint*, 2024. 
@@ -41,6 +44,9 @@ A generative nonparametric Bayesian model for whole genomes. [paper](https://pro
 &nbsp;&nbsp;&nbsp;&nbsp;**Amin A N\***, Weinstein E N\*, Marks D S. *NeurIPS*, 2021.
 
 ### Understanding and evaluating models of sequence data
+
+Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion. [paper](arxiv.org/abs/2506.08316), [code](https://github.com/AlanNawzadAmin/SCUD)  
+&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N, Wilson A G.  *Preprint*, 2025.
 
 Kernel-Based Evaluation of Conditional Biological Sequence Models. [paper](https://openreview.net/pdf?id=2dlmcTXfcY)  
 &nbsp;&nbsp;&nbsp;&nbsp;Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**. *ICML*, 2024.
