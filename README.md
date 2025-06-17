@@ -26,36 +26,40 @@
 ### Building scalable, flexible models of large sequence data
 
 Training Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra. [paper](), [code](https://github.com/AlanNawzadAmin/DeepWAS)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Potapczynski A, Wilson A G.  *ICML*, 2025. **oral and 2nd best paper award at AI4NA workshop at ICLR 2024**
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Potapczynski A, Wilson A G.  *ICML*, 2025.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Oral and 2nd best paper award at AI4NA workshop at ICLR 2024**
 
 Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences. [paper](https://arxiv.org/abs/2412.07763), [code](https://github.com/AlanNawzadAmin/CloneBO)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *ICLR*, 2024. **spotlight at ICLR, spotlight and outstanding poster award at AIDrugX workshop at Neurips 2024** 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Gruver N\*, Kuang Y\*, Li Y\*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G.  *ICLR*, 2024.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Spotlight at ICLR 2024, spotlight and outstanding poster award at AIDrugX workshop at Neurips 2024** 
 
 Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale. [paper](https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2), [code](https://github.com/debbiemarkslab/variational-synthesis)  
-&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, Gollub M G\*, Slabodkin A\*, Gardner C L, Dobbs K, Cui X-B, **Amin A N**, Church G M, Wood E B. *Preprint*, 2024. 
+&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, Gollub M G\*, Slabodkin A\*, Gardner C L, Dobbs K, Cui X-B, <ins>Amin A N</ins>, Church G M, Wood E B. *Preprint*, 2024. 
 
 Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency. [paper](https://arxiv.org/abs/2406.09177), [code](https://github.com/AlanNawzadAmin/DAT-graph)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Wilson A G. *ICML*, 2024 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Wilson A G. *ICML*, 2024 
 
 Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences. [paper](https://arxiv.org/abs/2304.03775), [code](https://github.com/AlanNawzadAmin/Kernels-with-guarantees)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *arXiv*, 2023. **Student Research Award at 2023 New England Statistics Symposium** 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Weinstein E N\*, Marks D S\*. *arXiv*, 2023.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Student Research Award at 2023 New England Statistics Symposium** 
 
 A generative nonparametric Bayesian model for whole genomes. [paper](https://proceedings.neurips.cc/paper/2021/hash/e9dcb63ca828d0e00cd05b445099ed2e-Abstract.html), [code](https://github.com/debbiemarkslab/BEAR)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N\***, Weinstein E N\*, Marks D S. *NeurIPS*, 2021.
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>\*, Weinstein E N\*, Marks D S. *NeurIPS*, 2021.
 
 ### Understanding and evaluating models of sequence data
 
 Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion. [paper](https://arxiv.org/abs/2506.08316), [code](https://github.com/AlanNawzadAmin/SCUD)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Gruver N, Wilson A G.  *Preprint*, 2025.
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Gruver N, Wilson A G.  *Preprint*, 2025.
 
 Kernel-Based Evaluation of Conditional Biological Sequence Models. [paper](https://openreview.net/pdf?id=2dlmcTXfcY)  
-&nbsp;&nbsp;&nbsp;&nbsp;Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, **Amin A N**. *ICML*, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, <ins>Amin A N</ins>. *ICML*, 2024.
 
 A Kernelized Stein Discrepancy for Biological Sequences.  [paper](https://proceedings.mlr.press/v202/amin23a.html), [code](https://github.com/AlanNawzadAmin/KSD-B/)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Amin A N**, Weinstein E N\*, Marks D S\*. *ICML*, 2023.
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Weinstein E N\*, Marks D S\*. *ICML*, 2023.
 
 Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, **Amin A N\***, Frazer J, Marks D S. *NeurIPS*, 2022. **Oral** 
+&nbsp;&nbsp;&nbsp;&nbsp;Weinstein E N\*, <ins>Amin A N</ins>\*, Frazer J, Marks D S. *NeurIPS*, 2022.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Oral at NeurIPS 2022** 
 
 # Teaching
 
