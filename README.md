@@ -25,7 +25,7 @@
 
 ### Building scalable, flexible models of large sequence data
 
-Training Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra. [paper](), [code](https://github.com/AlanNawzadAmin/DeepWAS)  
+Training Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra. [paper](https://arxiv.org/abs/2506.19598), [code](https://github.com/AlanNawzadAmin/DeepWAS)  
 &nbsp;&nbsp;&nbsp;&nbsp;<ins>Amin A N</ins>, Potapczynski A, Wilson A G.  *ICML*, 2025.  
 &nbsp;&nbsp;&nbsp;&nbsp;**Oral and 2nd best paper award at AI4NA workshop at ICLR 2024**
 
