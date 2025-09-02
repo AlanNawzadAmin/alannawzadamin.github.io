@@ -12,7 +12,7 @@ I work on statistical models built on modern, large databases of biological sequ
 **Position:** Faculty Fellow, Courant Institute, NYU  
 **Host:** [Wilson Lab](https://cims.nyu.edu/~andrewgw/)  
 **Email:** alanamin@nyu.edu  
-**Links:** [CV](/cv) • [Google Scholar](your-link) • [GitHub](https://github.com/AlanNawzadAmin) • [Twitter](https://x.com/AlanNawzadAmin)
+**Links:** [CV](/cv) • [Google Scholar](https://scholar.google.com/citations?user=oJ9N-SwAAAAJ&hl=en) • [GitHub](https://github.com/AlanNawzadAmin) • [Twitter](https://x.com/AlanNawzadAmin)
 
 <div style="clear: both;"></div>
 
