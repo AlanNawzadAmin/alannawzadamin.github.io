@@ -4,297 +4,221 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alan N. Amin</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --text-primary: #1a1a1a;
-            --text-secondary: #666;
-            --text-tertiary: #999;
-            --link-color: #0068FF;
-            --link-hover: #0052cc;
-            --border-color: #e5e5e5;
-            --bg-subtle: #fafafa;
-            --bg-award: #e6f2ff;
-            --award-text: #0068FF;
+            --ink: #14181f;
+            --muted: #566070;
+            --faint: #8a93a1;
+            --rule: #e2e6eb;
+            --blue: #0068ff;
         }
-        
+
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-        
+
+        html {
+            -webkit-text-size-adjust: 100%;
+        }
+
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-            line-height: 1.6;
-            color: var(--text-primary);
-            background: white;
+            font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.55;
+            color: var(--ink);
+            background: #fff;
         }
-        
+
+        a {
+            color: var(--blue);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
         .container {
-            max-width: 920px;
+            max-width: 860px;
             margin: 0 auto;
-            padding: 3rem 2rem;
+            padding: 4rem 1.5rem 5rem;
         }
-        
-        /* Header Section */
-        .header {
-            margin-bottom: 3rem;
-        }
-        
+
+        /* Header */
         .header-content {
             display: flex;
-            gap: 2.5rem;
+            gap: 3rem;
             align-items: flex-start;
         }
-        
+
         .header-text {
             flex: 1;
         }
-        
+
         h1 {
-            font-size: 2.2rem;
-            font-weight: 700;
-            margin-bottom: 1rem;
-            letter-spacing: -0.02em;
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+            line-height: 1.2;
+            margin-bottom: 0.5rem;
         }
-        
+
         .tagline {
-            font-size: 1.1rem;
-            color: var(--text-secondary);
-            margin-bottom: 1.5rem;
-            line-height: 1.5;
+            font-size: 1.05rem;
+            margin-bottom: 1.25rem;
         }
-        
+
         .bio {
-            color: var(--text-secondary);
-            margin-bottom: 1.5rem;
+            color: var(--muted);
+            margin-bottom: 1rem;
         }
-        
+
         .profile-pic {
-            width: 240px;
-            height: 240px;
-            border-radius: 12px;
+            width: 200px;
+            height: 200px;
+            border-radius: 4px;
             object-fit: cover;
-            margin-top: 4.5rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            margin-top: 0.4rem;
         }
-        
-        /* Links Section */
+
         .links {
             display: flex;
             flex-wrap: wrap;
-            gap: 1.5rem;
-            margin-top: 1.5rem;
-            padding-top: 1.5rem;
-            border-top: 1px solid var(--border-color);
+            gap: 0.25rem 1.5rem;
+            margin-top: 1.25rem;
         }
-        
-        .links a {
-            color: var(--link-color);
-            text-decoration: none;
-            font-weight: 500;
-            font-size: 0.95rem;
-            transition: color 0.2s;
-        }
-        
-        .links a:hover {
-            color: var(--link-hover);
-            text-decoration: underline;
-        }
-        
-        /* Section Headers */
+
+        /* Sections */
         h2 {
-            font-size: 1.8rem;
-            font-weight: 700;
-            margin: 3rem 0 0.5rem;
-            letter-spacing: -0.01em;
-        }
-        
-        .section-subtitle {
-            color: var(--text-tertiary);
-            font-size: 0.95rem;
-            margin-bottom: 2rem;
-        }
-        
-        h3 {
-            font-size: 1.2rem;
+            font-size: 1.4rem;
             font-weight: 600;
-            color: var(--text-secondary);
-            margin: 2.5rem 0 1.5rem;
+            margin: 3.5rem 0 0.25rem;
+        }
+
+        .section-subtitle {
+            color: var(--faint);
+            font-size: 0.9rem;
+        }
+
+        h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin: 2.25rem 0 1.75rem;
             padding-top: 1rem;
-            border-top: 1px solid var(--border-color);
+            border-top: 1px solid var(--rule);
         }
-        
-        /* Paper Cards */
+
+        /* Papers */
         .paper {
-            display: flex;
-            gap: 1.5rem;
-            margin-bottom: 2.5rem;
-            padding: 1.5rem;
-            background: var(--bg-subtle);
-            border-radius: 8px;
-            transition: transform 0.2s, box-shadow 0.2s;
+            display: grid;
+            grid-template-columns: 200px 1fr;
+            gap: 1.75rem;
+            align-items: center;
+            margin-bottom: 2.25rem;
         }
-        
-        .paper:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-        }
-        
+
         .paper-thumb {
             width: 200px;
-            height: 180px;
+            height: 140px;
             object-fit: contain;
-            border-radius: 6px;
-            background: #fff;
-            border: 1px solid var(--border-color);
-            flex-shrink: 0;
-            padding: 10px;
         }
-        
+
         .paper-content {
-            flex: 1;
             min-width: 0;
+            font-size: 0.9rem;
         }
-        
+
         .paper-title {
-            font-size: 1.05rem;
+            font-size: 1rem;
             font-weight: 600;
-            line-height: 1.4;
-            margin-bottom: 0.5rem;
-            color: var(--text-primary);
+            line-height: 1.35;
+            margin-bottom: 0.3rem;
         }
-        
-        .paper-authors {
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-            margin-bottom: 0.4rem;
-        }
-        
-        .paper-authors strong {
-            color: var(--text-primary);
-            font-weight: 600;
-        }
-        
+
+        .paper-authors,
         .paper-venue {
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-            margin-bottom: 0.6rem;
-            display: flex;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 0.5rem;
+            color: var(--muted);
         }
-        
+
+        .paper-authors strong {
+            color: var(--ink);
+            font-weight: 600;
+        }
+
         .award {
-            display: inline-block;
-            background: var(--bg-award);
-            color: var(--award-text);
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            font-weight: 500;
+            color: var(--ink);
         }
-        
+
+        .award::before {
+            content: "\2605";
+            color: var(--blue);
+            font-size: 0.85em;
+            margin: 0 0.3em 0 0.9em;
+        }
+
         .paper-links {
             display: flex;
             gap: 1rem;
-            margin-bottom: 0.6rem;
+            margin-top: 0.3rem;
         }
-        
-        .paper-links a {
-            color: var(--link-color);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: color 0.2s;
-        }
-        
-        .paper-links a:hover {
-            color: var(--link-hover);
-            text-decoration: underline;
-        }
-        
+
         .paper-question {
             font-style: italic;
-            color: var(--text-tertiary);
-            font-size: 0.9rem;
-            margin-top: 0.5rem;
+            color: var(--faint);
+            margin-top: 0.3rem;
         }
-        
-        /* Teaching Section */
+
+        /* Teaching */
         .teaching-item {
-            margin-bottom: 1.5rem;
-            padding: 1.5rem;
-            background: var(--bg-subtle);
-            border-radius: 6px;
+            margin-top: 1.25rem;
         }
-        
-        .teaching-item strong {
-            color: var(--text-primary);
+
+        .teaching-item + .teaching-item {
+            margin-top: 1.5rem;
         }
-        
+
         .teaching-links {
-            margin-top: 1rem;
-            line-height: 2;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.25rem 1.25rem;
+            margin-top: 0.3rem;
         }
-        
-        .teaching-links a {
-            color: var(--link-color);
-            text-decoration: none;
-            font-weight: 500;
-            margin: 0 0.5rem;
-            transition: color 0.2s;
-        }
-        
-        .teaching-links a:hover {
-            color: var(--link-hover);
-            text-decoration: underline;
-        }
-        
-        /* Responsive Design */
-        @media (max-width: 768px) {
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 2.5rem 1.25rem 3.5rem;
+            }
+
             .header-content {
-                flex-direction: column;
+                flex-direction: column-reverse;
                 gap: 1.5rem;
             }
-            
+
             .profile-pic {
-                width: 180px;
+                width: 140px;
+                height: 140px;
                 margin-top: 0;
-                height: 180px;
             }
-            
-            h1 {
-                font-size: 1.8rem;
-            }
-            
+
             .paper {
-                flex-direction: column;
-                padding: 1rem;
+                grid-template-columns: 1fr;
+                gap: 0.9rem;
             }
-            
+
             .paper-thumb {
                 width: 100%;
-                height: 160px;
-                object-fit: contain;
-                padding: 10px;
-            }
-            
-            .links {
-                gap: 1rem;
+                max-width: 260px;
+                height: auto;
+                max-height: 180px;
+                object-position: left center;
             }
         }
-        
-        /* Print Styles */
+
         @media print {
             .paper {
                 break-inside: avoid;
-                background: white;
-                border: 1px solid var(--border-color);
             }
         }
     </style>
@@ -317,14 +241,14 @@
                         Previously: Faculty Fellow at NYU Courant Institute hosted in the <a href="https://cims.nyu.edu/~andrewgw/">Wilson lab</a>,
                         PhD at Harvard Systems Biology with <a href="https://www.deboramarkslab.com/">Debora Marks</a> (2023), 
                         Postdoc at <a href="https://www.jura.bio/">Jura Bio</a> (2023), 
-                        BS in Biochemistry & Mathematics from University of Toronto (2019).
+                        BS in Biochemistry &amp; Mathematics from University of Toronto (2019).
                     </p>
                     <div class="links">
-                        <a href="https://alannawzadamin.github.io/assets/Alan_Amin_CV.pdf" target="_blank">📄 CV</a>
-                        <a href="mailto:alan.nawzad.a@gmail.com">✉️ Email</a>
-                        <a href="https://twitter.com/AlanNawzadAmin">𝕏 Twitter</a>
-                        <a href="https://github.com/AlanNawzadAmin">💻 GitHub</a>
-                        <a href="https://scholar.google.com/citations?user=oJ9N-SwAAAAJ&hl=da&oi=sra">🎓 Google Scholar</a>
+                        <a href="https://alannawzadamin.github.io/assets/Alan_Amin_CV.pdf" target="_blank">CV</a>
+                        <a href="mailto:alan.nawzad.a@gmail.com">Email</a>
+                        <a href="https://twitter.com/AlanNawzadAmin">Twitter</a>
+                        <a href="https://github.com/AlanNawzadAmin">GitHub</a>
+                        <a href="https://scholar.google.com/citations?user=oJ9N-SwAAAAJ&hl=da&oi=sra">Google Scholar</a>
                     </div>
                 </div>
                 <img src="assets/zUg6W86__400x400.jpg" alt="Alan Amin" class="profile-pic">
@@ -338,14 +262,11 @@
             <h3>Scalable, flexible models of large sequence data</h3>
 
             <div class="paper">
-                <img src="assets/deepphylo_thumb.png" alt="deepphylo visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #667eea 0%, #764ba2 100%)'">
+                <img src="assets/deepphylo_thumb.png" alt="deepphylo visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Deep Generative Models for Phylogenetic Inference with Complex Evolutionary Processes</div>
                     <div class="paper-authors">Baron E*, <strong>Amin A N*</strong>, Weitzman R, Marks D S, Wilson A G</div>
-                    <div class="paper-venue">
-                        Neurips 2026
-                        <span class="award">🌟 Spotlight</span><span class="award">🎤 Oral at MLCB</span>
-                    </div>
+                    <div class="paper-venue">NeurIPS 2026<span class="award">Spotlight</span><span class="award">Oral at MLCB</span></div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2610.19053">Paper</a>
                         <a href="https://github.com/baronet2/PhyloPFN">Code</a>
@@ -355,13 +276,11 @@
             </div>
 
             <div class="paper">
-                <img src="assets/cVS_thumb.png" alt="cVS visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #667eea 0%, #764ba2 100%)'">
+                <img src="assets/cVS_thumb.png" alt="cVS visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Continuous Variational Synthesis</div>
                     <div class="paper-authors"><strong>Amin A N*</strong>, Gollub M G*, Slabodkin A, Wood E B, Weinstein E W</div>
-                    <div class="paper-venue">
-                        arXiv 2026
-                    </div>
+                    <div class="paper-venue">arXiv 2026</div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2609.35083">Paper</a>
                     </div>
@@ -370,14 +289,11 @@
             </div>
             
             <div class="paper">
-                <img src="assets/SCISOR_thumb.png" alt="SCISOR visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #667eea 0%, #764ba2 100%)'">
+                <img src="assets/SCISOR_thumb.png" alt="SCISOR visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">A Diffusion Model to Shrink Proteins</div>
                     <div class="paper-authors">Baron E*, <strong>Amin A N*</strong>, Weitzman R, Marks D S, Wilson A G</div>
-                    <div class="paper-venue">
-                        ICLR 2025
-                        <span class="award">🏆 Best paper at MoML 2025</span><span class="award">🏆 Best Paper at ExAIT Workshop</span><span class="award">🏆 Pitch award at GenBio workshop</span>
-                    </div>
+                    <div class="paper-venue">ICLR 2025<span class="award">Best paper at MoML 2025</span><span class="award">Best Paper at ExAIT Workshop</span><span class="award">Pitch award at GenBio workshop</span></div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2511.07390">Paper</a>
                         <a href="https://github.com/baronet2/SCISOR">Code</a>
@@ -387,14 +303,11 @@
             </div>
             
             <div class="paper">
-                <img src="assets/deepwas-thumb.png" alt="DeepWAS visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #667eea 0%, #764ba2 100%)'">
+                <img src="assets/deepwas-thumb.png" alt="DeepWAS visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Training Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra</div>
                     <div class="paper-authors"><strong>Amin A N*</strong>, Potapczynski A*, Wilson A G</div>
-                    <div class="paper-venue">
-                        ICML 2025
-                        <span class="award">🏆 Oral & 2nd Best Paper at AI4NA Workshop</span><span class="award">🎤 Oral at MLCB</span>
-                    </div>
+                    <div class="paper-venue">ICML 2025<span class="award">Oral &amp; 2nd Best Paper at AI4NA Workshop</span><span class="award">Oral at MLCB</span></div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2506.19598">Paper</a>
                         <a href="https://github.com/AlanNawzadAmin/DeepWAS">Code</a>
@@ -404,15 +317,11 @@
             </div>
 
             <div class="paper">
-                <img src="assets/clonebo_thumb.png" alt="CloneBO visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #f093fb 0%, #f5576c 100%)'">
+                <img src="assets/clonebo_thumb.png" alt="CloneBO visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences</div>
                     <div class="paper-authors"><strong>Amin A N</strong>, Gruver N*, Kuang Y*, Li Y*, Elliott H, McCarter C, Raghu A, Greenside P, Wilson A G</div>
-                    <div class="paper-venue">
-                        ICLR 2024
-                        <span class="award">🌟 Spotlight</span>
-                        <span class="award">🏆 Outstanding Poster at AIDrugX</span>
-                    </div>
+                    <div class="paper-venue">ICLR 2024<span class="award">Spotlight</span><span class="award">Outstanding Poster at AIDrugX</span></div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2412.07763">Paper</a>
                         <a href="https://github.com/AlanNawzadAmin/CloneBO">Code</a>
@@ -422,14 +331,11 @@
             </div>
 
             <div class="paper">
-                <img src="assets/petabase-thumb.png" alt="Petascale synthesis" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #fa709a 0%, #fee140 100%)'">
+                <img src="assets/petabase-thumb.png" alt="Petascale synthesis" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Manufacturing-Aware Generative Model Architectures Enable Biological Sequence Design and Synthesis at Petascale</div>
                     <div class="paper-authors">Weinstein E N*, Gollub M G*, Slabodkin A*, Gardner C L, Dobbs K, Cui X-B, <strong>Amin A N</strong>, Church G M, Wood E B</div>
-                    <div class="paper-venue">
-                        Nature Biotechnology 2025
-                        <span class="award">🏆 Top 4 paper at MoML 2024</span>
-                    </div>
+                    <div class="paper-venue">Nature Biotechnology 2025<span class="award">Top 4 paper at MoML 2024</span></div>
                     <div class="paper-links">
                         <a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612900v2">Paper</a>
                         <a href="https://github.com/debbiemarkslab/variational-synthesis">Code</a>
@@ -439,7 +345,7 @@
             </div>
 
             <div class="paper">
-                <img src="assets/bear-thumb.png" alt="BEAR model" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)'">
+                <img src="assets/bear-thumb.png" alt="BEAR model" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">A generative nonparametric Bayesian model for whole genomes</div>
                     <div class="paper-authors"><strong>Amin A N</strong>*, Weinstein E N*, Marks D S</div>
@@ -455,23 +361,21 @@
             <h3>Theoretical foundations of modelling discrete sequence data</h3>
 
             <div class="paper">
-                <img src="assets/Unif-thumb.png" alt="Unification visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #667eea 0%, #764ba2 100%)'">
+                <img src="assets/Unif-thumb.png" alt="Unification visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">A Unification of Discrete, Gaussian, and Simplicial Diffusion</div>
                     <div class="paper-authors">Chandra A*, Li Y L*, <strong>Amin A N*</strong>, Ali A, Rollins J, Ober S W, Raghu A, Wilson A G</div>
-                    <div class="paper-venue">
-                        ICLR 2026
-                    </div>
+                    <div class="paper-venue">ICLR 2026</div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2512.15923">Paper</a>
                         <a href="https://github.com/yucenli/unify-diffusion">Code</a>
                     </div>
-                    <div class="paper-question">"Can we unifty the different diffusion models for discrete data?"</div>
+                    <div class="paper-question">"Can we unify the different diffusion models for discrete data?"</div>
                 </div>
             </div>
 
             <div class="paper">
-                <img src="assets/SCUD-thumb.png" alt="SCUD diffusion" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)'">
+                <img src="assets/SCUD-thumb.png" alt="SCUD diffusion" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion</div>
                     <div class="paper-authors"><strong>Amin A N</strong>, Gruver N, Wilson A G</div>
@@ -485,14 +389,11 @@
             </div>
 
             <div class="paper">
-                <img src="assets/kernel-thumb.png" alt="Kernels visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)'">
+                <img src="assets/kernel-thumb.png" alt="Kernels visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Kernels with Guaranteed Flexibility for Reliable Machine Learning on Biological Sequences</div>
                     <div class="paper-authors"><strong>Amin A N</strong>, Weinstein E N*, Marks D S*</div>
-                    <div class="paper-venue">
-                        JMLR 2025
-                        <span class="award">🏆 Student Research Award NESS 2023</span>
-                    </div>
+                    <div class="paper-venue">JMLR 2025<span class="award">Student Research Award NESS 2023</span></div>
                     <div class="paper-links">
                         <a href="https://arxiv.org/abs/2304.03775">Paper</a>
                         <a href="https://github.com/AlanNawzadAmin/Kernels-with-guarantees">Code</a>
@@ -502,14 +403,11 @@
             </div>
 
             <div class="paper">
-                <img src="assets/nonid-thumb.png" alt="Non-identifiability" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #ffd89b 0%, #19547b 100%)'">
+                <img src="assets/nonid-thumb.png" alt="Non-identifiability" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Non-identifiability and the blessings of misspecification in models of molecular fitness and phylogeny</div>
                     <div class="paper-authors">Weinstein E N*, <strong>Amin A N</strong>*, Frazer J, Marks D S</div>
-                    <div class="paper-venue">
-                        NeurIPS 2022
-                        <span class="award">🎤 Oral Presentation</span>
-                    </div>
+                    <div class="paper-venue">NeurIPS 2022<span class="award">Oral Presentation</span></div>
                     <div class="paper-links">
                         <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/247e592848391fe01f153f179c595090-Paper-Conference.pdf">Paper</a>
                     </div>
@@ -520,7 +418,7 @@
             <h3>Flexible hypothesis testing on huge datasets and models</h3>
 
             <div class="paper">
-                <img src="assets/dat-thumb.png" alt="DAT graph" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)'">
+                <img src="assets/dat-thumb.png" alt="DAT graph" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency</div>
                     <div class="paper-authors"><strong>Amin A N</strong>, Wilson A G</div>
@@ -534,7 +432,7 @@
             </div>
 
             <div class="paper">
-                <img src="assets/pierre-thumb.png" alt="Kernel evaluation" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #f77062 0%, #fe5196 100%)'">
+                <img src="assets/pierre-thumb.png" alt="Kernel evaluation" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">Kernel-Based Evaluation of Conditional Biological Sequence Models</div>
                     <div class="paper-authors">Glaser P, Paul S, Hummer A M, Deane C M, Marks D S, <strong>Amin A N</strong></div>
@@ -547,7 +445,7 @@
             </div>
 
             <div class="paper">
-                <img src="assets/ksd-thumb.png" alt="KSD visualization" class="paper-thumb" onerror="this.style.background='linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)'">
+                <img src="assets/ksd-thumb.png" alt="KSD visualization" class="paper-thumb" loading="lazy">
                 <div class="paper-content">
                     <div class="paper-title">A Kernelized Stein Discrepancy for Biological Sequences</div>
                     <div class="paper-authors"><strong>Amin A N</strong>, Weinstein E N*, Marks D S*</div>
@@ -565,22 +463,23 @@
         <section>
             <h2>Teaching</h2>
             <div class="teaching-item">
-                <strong>CSCI-102: Data Structures</strong><br>
-                <em style="color: var(--text-secondary);">Looking for undergraduate graders at NYU - please reach out!</em>
+                <strong>CSCI-102: Data Structures</strong>
                 <div class="teaching-links">
-                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-102-011-Spring-2026">Summer 2026</a> • 
-                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-102-011-Fall-2025">Fall 2025</a> • 
-                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-102-011-Spring-2025">Spring 2025</a> • 
-                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-201-011-Fall-2024">Fall 2024</a> • 
+                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-102-011-Spring-2026">Spring 2026</a>
+                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-102-011-Fall-2025">Fall 2025</a>
+                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-102-011-Spring-2025">Spring 2025</a>
+                    <a href="https://github.com/AlanNawzadAmin/CSCI-UA-201-011-Fall-2024">Fall 2024</a>
                     <a href="https://github.com/AlanNawzadAmin/CSCI-UA-201-011-Spring-2024">Spring 2024</a>
-                </div><br>
-                <strong>Reviews</strong><br>
+                </div>
+            </div>
+            <div class="teaching-item">
+                <strong>Reviews</strong>
                 <div class="teaching-links">
-                <a href="https://alannawzadamin.github.io/assets/Spring_2026_rev.pdf" target="_blank">Spring 2026</a> • 
-                <a href="https://alannawzadamin.github.io/assets/Fall_2025_rev.pdf" target="_blank">Fall 2025</a> • 
-                <a href="https://alannawzadamin.github.io/assets/Spring_2025_rev.pdf" target="_blank">Spring 2025</a> • 
-                <a href="https://alannawzadamin.github.io/assets/Fall_2024_rev.pdf" target="_blank">Fall 2024</a> • 
-                <a href="https://alannawzadamin.github.io/assets/Spring_2024_rev.pdf" target="_blank">Spring 2024</a>
+                    <a href="https://alannawzadamin.github.io/assets/Spring_2026_rev.pdf" target="_blank">Spring 2026</a>
+                    <a href="https://alannawzadamin.github.io/assets/Fall_2025_rev.pdf" target="_blank">Fall 2025</a>
+                    <a href="https://alannawzadamin.github.io/assets/Spring_2025_rev.pdf" target="_blank">Spring 2025</a>
+                    <a href="https://alannawzadamin.github.io/assets/Fall_2024_rev.pdf" target="_blank">Fall 2024</a>
+                    <a href="https://alannawzadamin.github.io/assets/Spring_2024_rev.pdf" target="_blank">Spring 2024</a>
                 </div>
             </div>
         </section>
